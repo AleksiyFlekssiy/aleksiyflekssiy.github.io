@@ -3,12 +3,6 @@ html {
     font-family: "JetBrains Mono", monospace;
     background-color: whitesmoke;
 }
-
-ol{
-    color: red;
-    width: 100px;
-    border: 1px solid black;
-}
 h1, h2, h3, h4 {
     text-align: center;
 }
@@ -36,6 +30,16 @@ img{
     display: block;
     margin: 0 auto;
     width: 100%;
+}
+button{
+    background-color: coral;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 25px;
+    border-width: 3px;
+    border-color: burlywood;
+    border-radius: 50px;
 }
 
 
